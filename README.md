@@ -156,5 +156,5 @@ Expected: P1 runs 0-2, P2 preempts 2-6, P1 resumes 6-10, P3 runs 10-12
 
 ## 👨‍💻 Author
 
-**OS Project** — Intelligent CPU Scheduler Simulator  
+CPU Scheduler Simulator  
 Built with pure HTML, CSS, and JavaScript. No frameworks, no build tools. Just open and run!
